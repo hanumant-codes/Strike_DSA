@@ -7,15 +7,20 @@ int main(){
     cin>>num;
     cout<<"enterd num is : "<<num;
 
+    cout<<endl;
+
+
 
     int num1, num2;
     cout<<"enter two numbers: ";
     cin>>num1>>num2;
     cout<<"sum is :"<<num1+num2;
+    cout<<endl;
 
     int age;
     cout<<"enter youre age: ";
     cin>>age;
+    cout<<endl;
 
 
     if(age >= 18){
