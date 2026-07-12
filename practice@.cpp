@@ -155,4 +155,3 @@ int main(){
 //  1234321
 // 123454321
 // print a prime number or not
-
